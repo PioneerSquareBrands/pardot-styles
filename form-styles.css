@@ -75,6 +75,8 @@
 }
 
 #pardot-form .submit input {
+  border-color: #02b1d3;
+  margin-right: 0;
   background-color: #02b1d3;
   color: #fff;
 }
