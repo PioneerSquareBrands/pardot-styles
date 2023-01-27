@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -80,14 +81,14 @@ body {
 }
 
 #pardot-form .submit input {
-  border-color: #02b1d3;
+  border-color: #dc5962;
   margin-right: 0;
-  background-color: #02b1d3;
+  background-color: #dc5962;
   color: #fff;
 }
 
 #pardot-form .submit input {
-  font-family: "Montserrat";
+  font-family: "Poppins";
   padding: 20px;
   font-size: 16px;
   font-weight: 700;
