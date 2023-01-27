@@ -1,9 +1,4 @@
 
-:root {
-  --font-family: "Poppins";
-  --button-color: #dc5962;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -75,7 +70,7 @@ body {
 #pardot-form input, #pardot-form select {
   min-height: 28px;
   padding: 8px 12px;
-  width: auto;
+  width: 100%;
   background-color: #ffffff;
   border: 1px solid #ccc;
   border-radius: 4px;
