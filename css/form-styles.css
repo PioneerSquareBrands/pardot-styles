@@ -96,4 +96,5 @@ body {
   font-weight: 700;
   letter-spacing: 1px;
   border-radius: var(--border-radius) !important;
+  cursor: pointer !important;
 }
