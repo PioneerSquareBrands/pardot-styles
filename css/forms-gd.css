@@ -7,3 +7,18 @@
   --border-radius: 3px;
   --border-color: #cccccc;
 }
+
+.form-template.dark {
+  color: #ffffff;
+}
+
+.form-template.dark #pardot-form label {
+  color: #ffffff;
+}
+
+.form-template.dark #pardot-form input[type="text"], 
+.form-template.dark #pardot-form select {
+  background-color: #ffffff;
+  border: 0;
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
+}
