@@ -12,6 +12,16 @@
   color: #ffffff;
 }
 
+.form-template.dark p,
+.form-template.dark form p {
+  color: #ffffff;
+}
+
+.form-template.dark a,
+.form-template.dark form a {
+  color: var(--button-color);
+}
+
 .form-template.dark #pardot-form label {
   color: #ffffff;
 }
