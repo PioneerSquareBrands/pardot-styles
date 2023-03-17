@@ -51,7 +51,8 @@ body {
 }
 
 #pardot-form p.error input,
-#pardot-form p.error select {
+#pardot-form p.error select,
+#pardot-form p.error textarea {
   outline: 3px solid #8b0000;
   outline-offset: -3px;
 }
@@ -68,7 +69,8 @@ body {
 }
 
 #pardot-form input[type="text"], 
-#pardot-form select {
+#pardot-form select,
+#pardot-form textarea {
   min-height: 40px;
   padding: 8px 12px;
   width: 100%;
