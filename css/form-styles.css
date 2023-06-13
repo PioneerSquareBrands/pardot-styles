@@ -113,3 +113,11 @@ form.form span.value {
   border-radius: var(--border-radius) !important;
   cursor: pointer !important;
 }
+
+#pardot-form .pd-textarea {
+  grid-column: 1/3;
+}
+
+#pardot-form .pd-textarea textarea {
+  width: 100% !important;
+}
